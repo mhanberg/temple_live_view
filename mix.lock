@@ -1,0 +1,3 @@
+%{
+  "temple": {:git, "https://github.com/mhanberg/temple.git", "b463be7660b4d3411373097378f21e44a3ffa8a1", [branch: "the-new-slots"]},
+}
